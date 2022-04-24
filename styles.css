@@ -1,0 +1,40 @@
+.header {
+
+}
+
+.containerh1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+}
+
+.containerh2 {
+    display: flex;
+}
+
+.containerh2a {
+    flex: 1;
+}
+
+.containerh2b {
+    flex: 1;
+}
+
+.body1 {
+
+}
+
+.body2 {
+    
+}
+
+.body3 {
+
+}
+
+.footer {
+    
+}
