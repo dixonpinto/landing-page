@@ -147,6 +147,7 @@
     padding-bottom: 50px;
 }
 
+/* BODY3 */
 .body3 {
     padding: 55px 140px 80px;
 }
@@ -157,6 +158,7 @@
     justify-content: space-between;
     gap: 100px;
     padding: 55px 55px 55px;
+    border-radius: 20px;
 }
 
 .containerb31a {
@@ -181,6 +183,11 @@
     border-style: solid;
 }
 
+/* FOOTER */
 .footer {
-    
+    background-color: #1f2937;
+    padding: 50px 140px 40px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
 }
